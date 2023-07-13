@@ -42,4 +42,4 @@
 -	Использовать нейронные сети вместо классических моделей
 
 ## Django-проект
-Развернут на http://aidar.pythonanywhere.com/prediction
+Развернут на http://aidar.pythonanywhere.com
